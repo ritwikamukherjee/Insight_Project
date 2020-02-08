@@ -1,5 +1,4 @@
-#Insight project
-Predicting service interruption of commuter rails in Greater Boston
+**Predicting service interruption of commuter rails in Greater Boston**
 
 This project details the collection of past alerts information from MBTA API (https://www.mbta.com/developers/v3-api/streaming), reliability & ridership metrics from
 the MBTA performance website, and past climate records from NOAA. The information was combined to predict service interruption durations into tomorrow by incorporating 
