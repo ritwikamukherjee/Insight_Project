@@ -1,5 +1,5 @@
 # Insight
-My project for [Insight Boston](https://www.insightdatascience.com/) Data Science 2020A. Predicts service interruptions of commuter rails using past alerts records from [MBTA](https://www.mbta.com/developers/v3-api/streaming), reliability & ridership metrics from
+My project **Stay on Track!** for [Insight Boston](https://www.insightdatascience.com/) Data Science 2020A predicts service interruptions of commuter rails using past alerts records from [MBTA](https://www.mbta.com/developers/v3-api/streaming), reliability & ridership metrics from
 the [MBTA performance](https://mbta-massdot.opendata.arcgis.com/search?tags=mbta%2Ccommuter%20rail), and past climate records from [NOAA](https://www.noaa.gov/weather). All code associated with the [web app](https://stayontrack-1.herokuapp.com/) can be found at my [commuterrail](https://github.com/ritwikamukherjee/commuterrail) repository.
 
 # Motivation
@@ -19,7 +19,3 @@ was added from the commuter rail lines [schedules](https://www.mbta.com/schedule
 - [Google Colab](https://colab.research.google.com)
 - [Jupyter Notebook](https://jupyter.org)
 
-Dependencies can be found in the environment.yml file, and this file can be used to create a conda environment with
-```console
-foo@bar:~$ conda env create -f environment.yml
-```
