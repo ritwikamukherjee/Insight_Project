@@ -7,8 +7,8 @@ Most current apps alert commuters of the real-time arrival departure times of th
 This would help commuters make informed decisions about their travel plans. 
 
 # Solution
-My app Stay on Track! informs commuters of interruptions for commuter rail lines running tomorrow using real-time weather forecast and historic data of service alerts. The historic data of past alerts of MBTA commuter rail lines, reliability and ridership of the trains, and associated weather data were used to estimate the duration of service interruptions that may occur 
-tomorrow for any train line. Commuters can now make informed decisions about their travel plans knowing about any issues ahead of time.
+My app Stay on Track! informs commuters of possible service interruptions or alerts of commuter rail lines running tomorrow using real-time weather forecast and historic data of service alerts. 
+The historic data of past alerts of MBTA commuter rail lines, reliability and ridership of the trains, and associated weather data were used to estimate the service interruptions into the next day. Commuters can now make informed decisions about their travel plans knowing about any issues ahead of time.
 
 # Organization
 My scripts were run on [Google Colab](https://colab.research.google.com). They have been organized into a ipynb file that is attached in this repository.  
