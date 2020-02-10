@@ -6,7 +6,7 @@ the [MBTA performance](https://mbta-massdot.opendata.arcgis.com/search?tags=mbta
 Most current apps alert commuters of the real-time arrival departure times of the trains. But commuter rail lines suffer several service interruptions en route that commuters cannot account for ahead of time. My app Stay on Track! informs commuters of interruptions for the trains running tomorrow. 
 This would help commuters make informed decisions about their travel plans. 
 
-#Solution
+# Solution
 My app Stay on Track! informs commuters of interruptions for commuter rail lines running tomorrow using real-time weather forecast and historic data of service alerts. The historic data of past alerts of MBTA commuter rail lines, reliability and ridership of the trains, and associated weather data were used to estimate the duration of service interruptions that may occur 
 tomorrow for any train line. Commuters can now make informed decisions about their travel plans knowing about any issues ahead of time.
 
